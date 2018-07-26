@@ -1,0 +1,1 @@
+D:\GitHub.Code\CMS-Model\CMS.Domain.Entities\obj\Debug\CMS.Domain.Entities.csprojResolveAssemblyReference.cache

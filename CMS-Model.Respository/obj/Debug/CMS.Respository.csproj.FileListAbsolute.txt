@@ -1,0 +1,14 @@
+D:\GitHub.Code\CMS-Model\CMS-Model.Respository\obj\Debug\CMS.Respository.csprojResolveAssemblyReference.cache
+D:\GitHub.Code\CMS-Model\CMS-Model.Respository\bin\Debug\CMS-Model.Respository.dll.config
+D:\GitHub.Code\CMS-Model\CMS-Model.Respository\bin\Debug\CMS-Model.Respository.dll
+D:\GitHub.Code\CMS-Model\CMS-Model.Respository\bin\Debug\CMS-Model.Respository.pdb
+D:\GitHub.Code\CMS-Model\CMS-Model.Respository\bin\Debug\CMS.Domain.Core.dll
+D:\GitHub.Code\CMS-Model\CMS-Model.Respository\bin\Debug\CMS.Infrastructure.Interfaces.dll
+D:\GitHub.Code\CMS-Model\CMS-Model.Respository\bin\Debug\EntityFramework.dll
+D:\GitHub.Code\CMS-Model\CMS-Model.Respository\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub.Code\CMS-Model\CMS-Model.Respository\bin\Debug\CMS.Domain.Core.pdb
+D:\GitHub.Code\CMS-Model\CMS-Model.Respository\bin\Debug\CMS.Infrastructure.Interfaces.pdb
+D:\GitHub.Code\CMS-Model\CMS-Model.Respository\bin\Debug\EntityFramework.xml
+D:\GitHub.Code\CMS-Model\CMS-Model.Respository\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub.Code\CMS-Model\CMS-Model.Respository\obj\Debug\CMS-Model.Respository.dll
+D:\GitHub.Code\CMS-Model\CMS-Model.Respository\obj\Debug\CMS-Model.Respository.pdb

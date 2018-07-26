@@ -1,0 +1,14 @@
+D:\GitHub.Code\CMS-Model\CMS.Infrastructure\obj\Debug\CMS.Infrastructure.csprojResolveAssemblyReference.cache
+D:\GitHub.Code\CMS-Model\CMS.Infrastructure\bin\Debug\CMS.Infrastructure.pdb
+D:\GitHub.Code\CMS-Model\CMS.Infrastructure\bin\Debug\CMS.Domain.Core.dll
+D:\GitHub.Code\CMS-Model\CMS.Infrastructure\bin\Debug\CMS.Infrastructure.Interfaces.dll
+D:\GitHub.Code\CMS-Model\CMS.Infrastructure\bin\Debug\EntityFramework.dll
+D:\GitHub.Code\CMS-Model\CMS.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub.Code\CMS-Model\CMS.Infrastructure\bin\Debug\CMS.Domain.Core.pdb
+D:\GitHub.Code\CMS-Model\CMS.Infrastructure\bin\Debug\CMS.Infrastructure.Interfaces.pdb
+D:\GitHub.Code\CMS-Model\CMS.Infrastructure\bin\Debug\EntityFramework.xml
+D:\GitHub.Code\CMS-Model\CMS.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub.Code\CMS-Model\CMS.Infrastructure\obj\Debug\CMS.Infrastructure.pdb
+D:\GitHub.Code\CMS-Model\CMS.Infrastructure\bin\Debug\CMS.Infrastructure.exe.config
+D:\GitHub.Code\CMS-Model\CMS.Infrastructure\bin\Debug\CMS.Infrastructure.exe
+D:\GitHub.Code\CMS-Model\CMS.Infrastructure\obj\Debug\CMS.Infrastructure.exe
